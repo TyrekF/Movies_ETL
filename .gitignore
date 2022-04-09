@@ -1,6 +1,6 @@
 # Files too large
-# movies_metadata.csv
-# ratings.csv
+movies_metadata.csv
+ratings.csv
 config.py
 
 # Byte-compiled / optimized / DLL files
